@@ -1,0 +1,13 @@
+.vscode
+.DS_Store
+html
+*.patch
+_book
+_build
+_publish
+*.orig
+samples
+bak
+*.bak
+*epub
+*pdf
