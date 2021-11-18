@@ -27,4 +27,4 @@ gitbook -V：
 
 ### 最后
 
-如果你也想自己动手制作电子书，欢迎在 issues 留下联系方式，一起学习交流。
+如果你也想自己动手制作电子书，欢迎与我 email 交流：qianguyihao#gmail.com （#改为@）
